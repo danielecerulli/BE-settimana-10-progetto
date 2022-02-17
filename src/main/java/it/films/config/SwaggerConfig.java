@@ -24,7 +24,7 @@ public class SwaggerConfig {
 				.version("1.0.0")
 				.license("Apache License Version 2.0")
 				.licenseUrl("https://www.apache.org/licenses/LICENSE-2.0")
-				.contact(new Contact("Daniele Cerulli", "https://dgkdg.it", "dcerulli.dc@gmail.com"))
+				.contact(new Contact("Daniele Cerulli", "https://www.instagram.com/daniele.cer/?hl=it", "dcerulli.dc@gmail.com"))
 				.build();
 	}
 	// generatore di documentazione
